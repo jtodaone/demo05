@@ -13,5 +13,15 @@
 </script>
 
 <style>
+    ul {
+        display: flex;
+        flex-direction: column;
+        list-style: none;
+    }
 
+    li {
+        background: #bbbbbb;
+        
+    }
 </style>
+
